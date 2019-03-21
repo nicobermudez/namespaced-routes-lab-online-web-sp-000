@@ -1,2 +1,2 @@
-module PreferenceHelper
+module PreferencesHelper
 end
